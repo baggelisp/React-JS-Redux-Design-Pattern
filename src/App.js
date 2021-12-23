@@ -7,7 +7,7 @@ import About from "./pages/About";
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to React Router!</h1>
+      <h1>Welcome to React Redux Example!</h1>
       <nav>
        <Link to="/">Home </Link>
         <Link to="/about">About</Link>
